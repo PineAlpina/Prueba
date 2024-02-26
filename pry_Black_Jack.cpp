@@ -29,7 +29,7 @@ void class_intrucciones::met_mostrarIntrucciones(){
     cout << "   que te deje el puntaje por encima de 21." << endl;
     cout << " " << endl;
     cout << "6. Si ganas tu apuesta se duplicara x2, pero si pierdes, perderas" << endl;
-    cout << "   todo el dinero que apostastes" << endl;
+    cout << "   todo el dinero que apostastes." << endl;
     cout << " " << endl;
     cout << "|-------------------------------------------------------------------------------------|" << endl;
 }
